@@ -1,5 +1,5 @@
-layout_spectrum: 0.10684619313889727
-typography_spectrum: 0.9013144494951841
+layout_spectrum: 0.5860676482211024
+typography_spectrum: 0.904725959430919
 color:
   brandColors:
     - '#FF6700'
@@ -7,10 +7,10 @@ color:
     - '#181818'
     - '#FBF5F3'
     - '#6F006A'
-  brandStrength: 0.7562610907664541
-  lightness: 0.8065073844686261
-  saturation: 0.2604375219981343
-  rhythmicContrast: 0.7880110864566252
+  brandStrength: 0.003351012984807096
+  lightness: 0.05742797189309161
+  saturation: 0.26402893156901297
+  rhythmicContrast: 0.8782975014546277
 content_rating:
   adult: false
 name: m
