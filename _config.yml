@@ -1,18 +1,18 @@
-typography_spectrum: 0.5116801875697836
-content_rating:
-  adult: false
+layout_spectrum: 0.7688634687651059
+typography_spectrum: 0.7035927393565895
 color:
   brandColors:
-    - '#BA160C'
     - '#181818'
+    - '#AD150C'
     - '#FFFFFF'
-    - '#0EABF2'
-    - '#BF6480'
-  brandStrength: 0.7538079161307599
-  lightness: 0.05944961201731522
-  saturation: 0.20942788540044488
-  rhythmicContrast: 0.24173257079003102
-layout_spectrum: 0.41127729778362454
+    - '#461714'
+    - '#343434'
+  brandStrength: 0.44493512504346816
+  lightness: 0.06090070769172346
+  saturation: 0.9854501559640659
+  rhythmicContrast: 0.06349129426136317
+content_rating:
+  adult: false
 name: m
 url: 'http://grid.maauer.com/'
 colors:
