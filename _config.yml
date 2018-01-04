@@ -1,5 +1,6 @@
-layout_spectrum: 0.5845976540474866
 typography_spectrum: 0.45303853799745736
+content_rating:
+  adult: false
 color:
   brandColors:
     - '#25064D'
@@ -11,8 +12,8 @@ color:
   lightness: 0.3058085416365267
   saturation: 0.3487144069262956
   rhythmicContrast: 0.11096234973833555
-content_rating:
-  adult: false
+github: true
+layout_spectrum: 0.5845976540474866
 name: m
 url: 'http://grid.maauer.com/'
 colors:
@@ -26,7 +27,9 @@ navigation:
   - name: /
     url: 'https://maauer.com'
     type: external
+  - name: wd
+    id: b3c2a7ce-11f0-40f1-a65a-c66b4ab75b51
+    type: content
 title: M; Grid
 content: []
 description: 'This is a Snake '
-github: true
